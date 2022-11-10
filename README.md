@@ -1,0 +1,5 @@
+# js-test2
+(EN)
+in this assignment, I had to create a script for a fictional streaming service which would receive two informations about a few users: wether they were Premium Members and for how long they've watched content from this website. There was going to be a raffle, and those who've spent more time watching content would be more likely to win the prize. There's a catch though, those who were Premium Members had twice the odds of those who were not. So my job was to create a script that would tell me the odds of each one of the participants.
+(PT-BR)
+Neste projeto, eu tive que criar um script para um serviço de streaming fictício que receberia duas informações sobre alguns usuários: se eles eram Usuários Premium e por quanto tempo eles assistiram conteúdo na plataforma. Haveria um sorteio, e aqueles que gastaram mais tempo assistindo conteúdo teriam uma chance maior de receber o prêmio. No entanto, os Usuários Premium tinham a chance dobrada em comparação com aqueles que não pagavam assinatura. Meu trabalho era criar um script que me diria as chances de cada um dos participantes.
